@@ -118,7 +118,7 @@ function initContacts() {
   const waCard = document.getElementById("waCard");
   const igCard = document.getElementById("igCard");
 
-  const whatsappNumber = "083107903592";
+  const whatsappNumber = "6283107903592";
   const whatsappMessage = "Halo NusaKarya! Saya tertarik dengan produk Anda.";
   const whatsappLink = `https://wa.me/${whatsappNumber}`;
   const instagramLink = "https://instagram.com/tbm_merah_putih_panda";
